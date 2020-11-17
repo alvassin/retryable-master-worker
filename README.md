@@ -1,3 +1,5 @@
+[Discussion in Google Groups](https://groups.google.com/g/rabbitmq-users/c/DrNoPFBWBMk)
+
 I need to workaround cases, when task is failed in worker, comes back to queue 
 fails again, and so on.
 
